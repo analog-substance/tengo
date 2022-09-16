@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/d5/tengo/v2/parser"
-	"github.com/d5/tengo/v2/token"
+	"github.com/analog-substance/tengo/v2/parser"
+	"github.com/analog-substance/tengo/v2/token"
 )
 
 var (
